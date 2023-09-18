@@ -17,17 +17,22 @@ The model utilizes skeletal data (hand landmark) and its architecture is a multi
 
 3)	Multi-Input (Mixed Module)
 This model uses 2 different data, the images collected for the LMC and the 3D joint data of the sekleton. The structure of this model is basically illustrated in the figures below:
+
 ![image](https://github.com/Jnur9/American-Sign-Language-Alphabet-Recognition-Using-Leap-Motion-Controller/assets/77942097/0560f9a5-04a3-416f-ace6-e92d41445845)
+
 ![image](https://github.com/Jnur9/American-Sign-Language-Alphabet-Recognition-Using-Leap-Motion-Controller/assets/77942097/4ceccfc6-910a-44de-9872-e2e7b095257f)
 # Simulation
 
 Confusion Matrix Model 1
+
 ![image](https://github.com/Jnur9/American-Sign-Language-Alphabet-Recognition-Using-Leap-Motion-Controller/assets/77942097/3bffc932-e58f-45e8-8b4c-b2b0aca3734a)
 
 Confusion Matrix Model 2
+
 ![image](https://github.com/Jnur9/American-Sign-Language-Alphabet-Recognition-Using-Leap-Motion-Controller/assets/77942097/865161dc-50f9-4178-bd71-c1cf09a39a73)
 
 Model 3 predicted results 
+
 ![image](https://github.com/Jnur9/American-Sign-Language-Alphabet-Recognition-Using-Leap-Motion-Controller/assets/77942097/dd178755-c4a0-4d73-ac53-22f0bcc812d7)
 
 
