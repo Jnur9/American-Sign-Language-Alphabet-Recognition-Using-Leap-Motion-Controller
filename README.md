@@ -36,8 +36,12 @@ Confusion Matrix Model 2
 
 Model 3 predicted results 
 <img width="500" alt="image" src="https://github.com/Jnur9/American-Sign-Language-Alphabet-Recognition-Using-Leap-Motion-Controller/assets/77942097/dd178755-c4a0-4d73-ac53-22f0bcc812d7">
-
-
+# Tools used
+The Leap Motion Controller SDK (for me to collect the data i used the LMC kit that only support python 2.7 )
+MediaPipe (for the landmark drawing in the real-time detection)
+OpenCV
+Keras-Tensorflow
+for the model developing and training i used python 3.10
 
 
 
